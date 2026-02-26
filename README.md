@@ -1,4 +1,6 @@
 # c32check
+## A specialized library for C32 address encoding and decoding within the Stacks blockchain ecosystem.
+
 
 [Crockford base-32](https://en.wikipedia.org/wiki/Base32#Crockford's_Base32)
 encoding library with 4-byte checksum.
