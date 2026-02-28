@@ -8,7 +8,7 @@ encoding library with 4-byte checksum.
 This library is meant for generating and decoding addresses on the Stacks
 blockchain.
 
-## How it works
+## Here is how it works
 
 Each c32check string encodes a 1-byte version and a 4-byte checksum. When
 decoded as a hex string, the wire format looks like this:
